@@ -14,6 +14,8 @@ Here is a ROS package for Unitree A1 robot. This package intended for demonstrat
  rosrun unitree_legged_control_demo demo_controler 
  ```
  # Demonstartion
+ [Video](https://youtu.be/XWjoJwxsewI)
  
+ ![demo](https://github.com/Gleboss1/unitree_legged_control_demo/blob/main/demo.gif)
  
  
